@@ -1,4 +1,51 @@
 
+.checked {
+    color: orange;
+  }
+  input[type=text], select{
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 30px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=submit]{
+    margin: 8px 128px;
+  }
+  #detail1{
+    display: none;
+  }
+  #detail2{
+    display: none;
+  }
+  #detail3{
+    display: none;
+  }
+  #myForm1{
+    display: none;
+    background-color: #006400;
+  }
+  #myForm2{
+    display: none;
+    background-color: #006400;
+  }
+  #myForm3{
+    display: none;
+    background-color: #006400;
+  }
+  #img1{
+     cursor: pointer;
+ }
+ #img2{
+    cursor: pointer;
+}
+#img3{
+   cursor: pointer;
+}
+
+
 .profile{
   border-radius: 100%;
 }
@@ -59,4 +106,5 @@ body{
 img{
     height: 400px;
 }
+
 
