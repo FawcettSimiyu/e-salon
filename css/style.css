@@ -1,3 +1,10 @@
 .profile{
   border-radius: 100%;
 }
+.card-title{
+  font-family: 'Merienda', cursive
+}
+.card-text{
+  font-family: 'Aclonica', sans-serif;
+
+}
