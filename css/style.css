@@ -14,3 +14,14 @@ input[type=text], select {
 input[type=submit] {
   margin: 8px 128px;
 }
+#detail4 {
+  display: none;
+}
+
+#detail5 {
+  display: none;
+}
+
+#detail6 {
+  display: none;
+}
