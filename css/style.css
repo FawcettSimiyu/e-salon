@@ -4,7 +4,7 @@
   input[type=text], select{
     width: 80%;
     padding: 12px 20px;
-    margin: 8px 20px;
+    margin: 8px 30px;
     display: inline-block;
     border: 1px solid #ccc;
     border-radius: 4px;
@@ -24,10 +24,13 @@
   }
   #myForm1{
     display: none;
+    background-color: #006400;
   }
   #myForm2{
     display: none;
+    background-color: #006400;
   }
   #myForm3{
     display: none;
+    background-color: #006400;
   }
