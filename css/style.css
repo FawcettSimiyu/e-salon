@@ -1,3 +1,4 @@
+
 html,
 body,
 header,
@@ -33,3 +34,18 @@ header,
   .navbar-color{
       background-color:darkblue;
   }
+
+h2{
+    font-family: 'Calligraffitti';
+    font-weight: bolder;
+    color: brown !important;
+}
+body{
+    text-align: center;
+    background-color: antiquewhite;
+}
+img{
+    height: 400px;
+}
+
+
