@@ -14,4 +14,21 @@ header,
   .top-nav-collapse {
     background-color: #24355c;
   }
+  .top-nav-collapse {
+    background-color: #24355c;
+  }
+  #basicExampleNav a{
+  float: left;
+  padding:30px;
+  color:white;
+  text-decoration: none;
+  font-size: 50px;
   
+  text-align: center;
+  }
+  #Hdescription{
+      padding-top: 100px;
+  }
+  body{
+    font-family: 'Pacifico'
+  }  
