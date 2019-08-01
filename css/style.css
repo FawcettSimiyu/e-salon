@@ -13,4 +13,21 @@
   input[type=submit]{
     margin: 8px 128px;
   }
-  
+  #detail1{
+    display: none;
+  }
+  #detail2{
+    display: none;
+  }
+  #detail3{
+    display: none;
+  }
+  #myForm1{
+    display: none;
+  }
+  #myForm2{
+    display: none;
+  }
+  #myForm3{
+    display: none;
+  }
