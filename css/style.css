@@ -27,12 +27,26 @@ input[type=submit] {
 }
 #myForm4 {
   display: none;
+  background: #006400;
 }
 
 #myForm5 {
   display: none;
+  background-color: #006400;
 }
 
 #myForm6 {
   display: none;
+  background-color: #006400;
+}
+
+#img4{
+  cursor: pointer;
+}
+
+#img5{
+  cursor: pointer;
+}
+#img6{
+  cursor: pointer;
 }

@@ -45,7 +45,6 @@ $(document).ready(function() {
     var hairStyle = parseInt($(this).find($("select#valueSelect3")).val());
     // alert(hairStyle);
     var radio = $("input[name='salonist']:checked").val();
-    if (radio == "yes") {}
     if (radio == "yes") {
       var rosette = parseInt(1500);
     }
@@ -59,7 +58,6 @@ $(document).ready(function() {
     var hairStyle = parseInt($(this).find($("select#valueSelect4")).val());
     // alert(hairStyle);
     var radio = $("input[name='salonist']:checked").val();
-    if (radio == "yes") {}
     if (radio == "yes") {
       var samson = parseInt(1000);
     }
@@ -73,7 +71,6 @@ $(document).ready(function() {
     var hairStyle = parseInt($(this).find($("select#valueSelect5")).val());
     // alert(hairStyle);
     var radio = $("input[name='salonist']:checked").val();
-    if (radio == "yes") {}
     if (radio == "yes") {
       var shantel = parseInt(900);
     }
