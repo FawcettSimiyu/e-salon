@@ -34,3 +34,12 @@
     display: none;
     background-color: #006400;
   }
+  #img1{
+     cursor: pointer;
+ }
+ #img2{
+    cursor: pointer;
+}
+#img3{
+   cursor: pointer;
+}
