@@ -89,7 +89,7 @@ header,
       background-color:darkblue;
   }
   .profile{
-    border-radius:100%;
+    border-style: inset;
   }
   .card-title{
     font-family: 'Merienda', cursive
