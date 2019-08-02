@@ -1,63 +1,3 @@
-
-.checked {
-    color: orange;
-  }
-  input[type=text], select{
-    width: 80%;
-    padding: 12px 20px;
-    margin: 8px 30px;
-    display: inline-block;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-sizing: border-box;
-  }
-  input[type=submit]{
-    margin: 8px 128px;
-  }
-  #detail1{
-    display: none;
-  }
-  #detail2{
-    display: none;
-  }
-  #detail3{
-    display: none;
-  }
-  #myForm1{
-    display: none;
-    background-color: #006400;
-  }
-  #myForm2{
-    display: none;
-    background-color: #006400;
-  }
-  #myForm3{
-    display: none;
-    background-color: #006400;
-  }
-  #img1{
-     cursor: pointer;
- }
- #img2{
-    cursor: pointer;
-}
-#img3{
-   cursor: pointer;
-}
-
-
-.profile{
-  border-radius: 100%;
-}
-.card-title{
-  font-family: 'Merienda', cursive
-}
-.card-text{
-  font-family: 'Aclonica', sans-serif;
-
-}
-
-
 html,
 body,
 header,
@@ -82,29 +22,151 @@ header,
   text-decoration: none;
   font-size: 50px;
   
+  
   text-align: center;
   }
   #Hdescription{
       padding-top: 100px;
   }
   body{
-    font-family: 'Pacifico'
+    font-family: 'Amiko';
+    font-size: 25px;
   }  
   .navbar-color{
       background-color:darkblue;
   }
+  .profile{
+    border-radius:50%;
+  }
+  .card-title{
+    font-family: 'Merienda', cursive
+  }
+  .card-text{
+    font-family: 'Aclonica', sans-serif;
+  
+  }
+  
 
-h2{
-    font-family: 'Calligraffitti';
-    font-weight: bolder;
-    color: brown !important;
-}
-body{
+  html,
+  body,
+  header,
+  #intro {
+    height: 100%;
+  }
+  #intro {
+      background: url("https://colleenoharasbeautyacademy.edu/wp-content/uploads/2015/08/best-hairstylist-schools-in-california.jpg")no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+    }
+    .top-nav-collapse {
+      background-color: #24355c;
+    }
+    
+    #basicExampleNav a{
+    float: left;
+    padding:30px;
+    color:black;
+    text-decoration: none;
+    font-size: 50px;
+    
     text-align: center;
-    background-color: antiquewhite;
-}
-img{
-    height: 400px;
-}
-
-
+    }
+    #Hdescription{
+        padding-top: 100px;
+    }
+    body{
+      font-family: 'Marienda'!important
+    }  
+    .navbar-color{
+        background-color:darkblue;
+    }
+  
+  h2{
+      font-family: 'Calligraffitti';
+      font-weight: bolder;
+      color: brown !important;
+  }
+  body{
+      text-align: center;
+      background-color: antiquewhite;
+  }
+  img{
+      height: 400px;
+  }
+  .checked {
+    color: orange;
+   }
+   input[type=text], select {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 30px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+   }
+   input[type=submit] {
+    margin: 8px 128px;
+   }
+   #detail1 {
+    display: none;
+   }
+   #detail2 {
+    display: none;
+   }
+   #detail3 {
+    display: none;
+   }
+   #myForm1 {
+    display: none;
+    background-color: #006400;
+   }
+   #myForm2 {
+    display: none;
+    background-color: #006400;
+   }
+   #myForm3 {
+    display: none;
+    background-color: #006400;
+   }
+   #img1 {
+    cursor: pointer;
+   }
+   #img2 {
+    cursor: pointer;
+   }
+   #img3 {
+    cursor: pointer;
+   }
+   #img4 {
+    cursor: pointer;
+   }
+   #img5 {
+    cursor: pointer;
+   }
+   #img6 {
+    cursor: pointer;
+   }
+   #detail4 {
+    display: none;
+   }
+   #detail5 {
+    display: none;
+   }
+   #detail6 {
+    display: none;
+   }
+   #myForm4 {
+    display: none;
+    background-color: #006400;
+   }
+   #myForm5 {
+    display: none;
+    background-color: #006400;
+   }
+   #myForm6 {
+    display: none;
+    background-color: #006400;
+   }
